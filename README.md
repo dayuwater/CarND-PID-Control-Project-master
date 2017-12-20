@@ -1,6 +1,10 @@
 # CarND-Controls-PID
 Self-Driving Car Engineer Nanodegree Program
 
+# Note
+- The Reflection is in Reflection/Reflection.md
+- There is also a Jupyter Notebook version of the Reflection in project root directory
+
 ---
 
 ## Dependencies
