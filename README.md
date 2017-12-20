@@ -4,6 +4,8 @@ Self-Driving Car Engineer Nanodegree Program
 # Note
 - The Reflection is in Reflection/Reflection.md
 - There is also a Jupyter Notebook version of the Reflection in project root directory
+- Use CarND Term 1 environment to run the code inside Reflection.ipynb
+- I changed `PID.h`. Use my version to compile the code.
 
 ---
 
